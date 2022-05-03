@@ -8,7 +8,7 @@ def data_fetch(path):
             label, sentence = line.split("\t")[1], line.split("\t")[2].replace("\n", "")
             result_list.append(label + "\t" + sentence)
 
-    pair_list = random.sample(result_list, 1000)
+    pair_list = random.sample(result_list, 500)
     return pair_list
 
 def write_txt(filename, content_list):
