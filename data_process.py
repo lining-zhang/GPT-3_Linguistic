@@ -6,7 +6,7 @@ def data_fetch(path):
         result_list = []
         for line in f:
             label, sentence = line.split("\t")[1], line.split("\t")[2].replace("\n", "")
-            result_list.append(sentence + "\t" + label)
+            result_list.append(label + "\t" + sentence)
 
     pair_list = random.sample(result_list, 1000)
     return pair_list
