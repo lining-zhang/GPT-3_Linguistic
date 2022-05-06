@@ -17,3 +17,13 @@ def Tense_prompt_general(sentence):
     return f"""
     \n\nQ: What is the tense of the sentence "{sentence}"?
     \nA:"""
+
+def Subj_prompt_general(sentence):
+    return f"""
+    \n\nQ: What is the number of the subject of the sentence "{sentence}"?
+    \nA:"""
+
+def Obj_prompt_general(sentence):
+    return f"""
+    \n\nQ: What is the number of the object of the sentence "{sentence}"?
+    \nA:"""

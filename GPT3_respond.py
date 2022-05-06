@@ -1,8 +1,13 @@
+'''
+Usage:
+    $ python GPT3_respond.py "tense"
+'''
 import sys
 import time
 import openai
 import pandas as pd
-from prompts import Tense_prompt, Subj_num_prompt, Obj_num_prompt
+from prompts import Tense_prompt, Subj_num_prompt, Obj_num_prompt, \
+                    Tense_prompt_general, Subj_prompt_general, Obj_prompt_general
 
 openai.api_key = "" # get OpenAI API key
 
@@ -17,7 +22,7 @@ def load_data(path):
 def write_csv_file(data_type, sentence_list, label_list, response_list):
     df = pd.DataFrame({"sentence": sentence_list,
                        "label": label_list,
-                       "GPT-3_response": response_list})
+                       "GPT3_response": response_list})
     df.to_csv(data_type + "_result.csv", index=False)
 
 def main(data_type, path):
@@ -42,6 +47,38 @@ def main(data_type, path):
             response_list.append(response)
             time.sleep(1)
 
+    if data_type == "subj_num":
+        for i, s_l in enumerate(sentence_label):
+            if (i + 1) % 100 == 0:
+                print(f"Getting GPT-3 response for record {(i + 1)}...") 
+            sentence = s_l[0]
+            label = s_l[1]
+            sentence_list.append(sentence)
+            label_list.append(label)
+
+            response = openai.Completion.create(engine="text-davinci-002",
+                                                prompt=Subj_num_prompt(sentence),
+                                                temperature=0)
+            response = response["choices"][0]["text"]
+            response_list.append(response)
+            time.sleep(1)
+
+    if data_type == "obj_num":
+        for i, s_l in enumerate(sentence_label):
+            if (i + 1) % 100 == 0:
+                print(f"Getting GPT-3 response for record {(i + 1)}...") 
+            sentence = s_l[0]
+            label = s_l[1]
+            sentence_list.append(sentence)
+            label_list.append(label)
+
+            response = openai.Completion.create(engine="text-davinci-002",
+                                                prompt=Obj_num_prompt(sentence),
+                                                temperature=0)
+            response = response["choices"][0]["text"]
+            response_list.append(response)
+            time.sleep(1)
+
     print("Writing results to csv file...")
     write_csv_file(data_type, sentence_list, label_list, response_list)
 
@@ -55,4 +92,3 @@ if __name__ == '__main__':
     path = path_dict[data_type]
     main(data_type, path)
 
-    
