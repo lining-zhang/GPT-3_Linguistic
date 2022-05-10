@@ -9,7 +9,7 @@ import pandas as pd
 from prompts import Tense_prompt, Subj_num_prompt, Obj_num_prompt, \
                     Tense_prompt_general, Subj_prompt_general, Obj_prompt_general
 
-openai.api_key = "" # get OpenAI API key
+openai.api_key = "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" # get OpenAI API key
 
 def load_data(path):
     results = []
@@ -42,7 +42,8 @@ def main(data_type, path):
 
             response = openai.Completion.create(engine="text-davinci-002",
                                                 prompt=Tense_prompt(sentence),
-                                                temperature=0)
+                                                temperature=0,
+                                                max_tokens=50)
             response = response["choices"][0]["text"]
             response_list.append(response)
             time.sleep(1)
@@ -58,7 +59,8 @@ def main(data_type, path):
 
             response = openai.Completion.create(engine="text-davinci-002",
                                                 prompt=Subj_num_prompt(sentence),
-                                                temperature=0)
+                                                temperature=0,
+                                                max_tokens=50)
             response = response["choices"][0]["text"]
             response_list.append(response)
             time.sleep(1)
@@ -74,7 +76,8 @@ def main(data_type, path):
 
             response = openai.Completion.create(engine="text-davinci-002",
                                                 prompt=Obj_num_prompt(sentence),
-                                                temperature=0)
+                                                temperature=0,
+                                                max_tokens=50)
             response = response["choices"][0]["text"]
             response_list.append(response)
             time.sleep(1)
