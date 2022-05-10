@@ -1,0 +1,1026 @@
+sentence,label,GPT3_response
+"Kylie heard the implication in the camp leader 's voice : that Jane Doe didn 't want to remember because she 'd murdered innocent children .
+",NN," The number of the object of the sentence is ""that Jane Doe didn't want to remember because she'd murdered innocent children."""
+"Someone rushed forward to Douglas the minute they entered the gallery .
+",NN," The subject of the sentence is ""Someone,"" so the object must be ""Douglas."""
+"How the hell do you define cost effective on compassionate issues ?
+",NN, There is no object in the sentence.
+""" Unload your packs on the side of the trail .
+",NNS," The number of the object of the sentence "" Unload your packs on the side of the trail . "" is "" packs ."""
+"They didn 't allow their wives to make any decisions on their own .
+",NNS," The number of the object of the sentence ""They didn't allow their wives to make any decisions on their own."" is singular."
+"Hell hath no fury - Her eyes widened , her mind jumping to the conversation she 'd had with Mariel .
+",NN," ""Her"" is the number of the object of the sentence."
+"The cook and her helper were clearing dishes away by that time .
+",NNS," The number of the subject of the sentence is plural, so the number of the object of the sentence must also be plural."
+"But he had strong cheekbones and a squared jaw that would someday make him a handsome man .
+",NNS," ""He"" is the subject of the sentence and the number is singular."
+"Grant gave a yawn of his own .
+",NN," The number of the object of the sentence ""Grant gave a yawn of his own."" is singular."
+""" Because we both have issues with codependency . ""
+",NNS," The number of the object of the sentence ""Because we both have issues with codependency."" is two."
+"I covered my tracks .
+",NNS," The number of the object of the sentence ""I covered my tracks"" is singular."
+""" Show Woods some respect !
+",NN," The subject of the sentence is ""Woods."""
+"My maternal grandparents live a few blocks away .
+",NNS," The number of the object of the sentence ""My maternal grandparents live a few blocks away"" is singular."
+"Jake pressed his palms against his ears .
+",NNS, There is no number given for the object in this sentence.
+"And I have some pink and green ribbons left over from a dress I made for Haley .
+",NNS, The number of the object of the sentence is two.
+"Anger replaced my numbness .
+",NNS," The number of the object of the sentence ""Anger replaced my numbness."" is singular."
+"He scanned their surroundings .
+",NNS," The number of the object of the sentence ""He scanned their surroundings"" is singular."
+"Following his example , she traced his hip , first with her fingers then with her tongue .
+",NN," The number of the object of the sentence is ""one""."
+"I checked the clock .
+",NN," The number of the object of the sentence ""I checked the clock."" is singular."
+"At dinner , George got canned tuna fish and ate it from a dish beside Ben 's chair .
+",NN, The number of the object of the sentence is 1.
+"But that gave them no clues as to the exact location .
+",NNS," The number of the object of the sentence ""But that gave them no clues as to the exact location"" is singular."
+"It had a sizzle , a wildness that swept through both of them , making time and location irrelevant .
+",NN, There is no object in this sentence.
+"He certainly had other interests ... like throwing her off balance .
+",NNS, The number of the object of the sentence is singular.
+"But the fact that you believe it ... That speaks volumes .
+",NNS," ""That"" is the object of the sentence."
+"She does not take caution .
+",NN, There is no object in the sentence.
+""" I didn 't want the responsibility .
+",NN," The number of the object of the sentence is ""the responsibility."""
+"He put his fork down again .
+",NN, The fork.
+"But his mouth waited just inches from hers , the mouth that had pressed kisses to every inch of her skin .
+",NNS," The number of the object of the sentence is ""one""."
+"They were checking numbers .
+",NNS," The number of the object of the sentence ""They were checking numbers."" is singular."
+"Maybe he 'll finally get the guts to come over .
+",NNS," ""He"" is the number of the object of the sentence."
+"The chipmunk played no more heed and rushed up the trunk of a tree of the Mila Forest .
+",NN," The number of the object of the sentence ""The chipmunk played no more heed and rushed up the trunk of a tree of the Mila Forest ."" is one."
+"I could hear shouts and feet pounding on the earth .
+",NNS," The number of the object of the sentence ""I could hear shouts and feet pounding on the earth"" is ""shouts."""
+"He fought the emptiness that threatened to swallow him .
+",NNS," The number of the object of the sentence is ""one""."
+"I 'll make amends , until the end of my days . ""
+",NNS," The number of the object of the sentence ""I 'll make amends , until the end of my days . "" is ""days."""
+"I like roofs better .
+",NNS," The number of the object of the sentence ""I like roofs better."" is singular."
+"A deep , long kiss , as he savored the sweetness that was his Claire .
+",NN," The number of the object of the sentence is ""one""."
+"He should have skipped the category altogether .
+",NN, There is no object in the sentence.
+"We had a booth to ourselves on the main floor .
+",NN," The number of the object of the sentence ""We had a booth to ourselves on the main floor .
+"" is ""one."""
+"I 'll take my chances .
+",NNS," The number of the object of the sentence ""I 'll take my chances ."" is singular."
+"Her friends might give her advice , but there isn 't a steady stream of money coming from anywhere but her business . ""
+",NN, There is no object in the sentence.
+"Neil snagged a notepad and pen last and checked out .
+",NN," The number of the object of the sentence ""Neil snagged a notepad and pen last and checked out .
+"" is singular."
+"She was carrying a leather handbag that had cost more than two of my outfits , which mostly come from Wal-Mart .
+",NN, The number of the object of the sentence is two.
+"The sound of her whispering his name and the amazing sensation of her pleasure triggered his own release from the tension gripping him .
+",NN," The number of the object of the sentence is ""one""."
+"It contained files of multiple case briefs .
+",NNS," ""It"" is the number of the object of the sentence."
+"Free drugs forever , man .
+",NNS, There is no object in the sentence.
+"He proudly viewed his victims in a heap .
+",NNS, 1
+""" And I got some sweet samples for my bowl .
+",NNS," The number of the object of the sentence is ""sweet samples."""
+""" I heard rumors that James 's purchase of the company wasn 't solely done on the up and up , so to speak .
+",NNS," The number of the object of the sentence is ""so to speak."""
+"I grabbed both our plates and dumped them in the sink .
+",NNS," The number of the object of the sentence ""I grabbed both our plates and dumped them in the sink"" is two."
+"I first crossed paths with Jesse Taylor on Reception Day .
+",NNS," The number of the object of the sentence is ""one""."
+""" I don 't have any contracts for it right now .
+",NNS," The number of the object of the sentence is ""0""."
+"That light touch alone sent her senses soaring .
+",NNS, There is no object in the sentence.
+"With a flick of his wrist , he parted the folds of my skirt .
+",NNS," The number of the object of the sentence is ""one""."
+"She racked her brains to think what could have possibly got the government 's attention ?
+",NNS," The number of the object of the sentence ""She racked her brains to think what could have possibly got the government 's attention ?"" is ""one""."
+"Since the kiss that morning , Neal hadn 't renewed his attentions .
+",NNS," The number of the object of the sentence ""Since the kiss that morning , Neal hadn 't renewed his attentions ."" is singular."
+"Thank heavens she 'd thought to indulge in pink satin after her shower .
+",NNS," The number of the object of the sentence ""Thank heavens she 'd thought to indulge in pink satin after her shower ."" is 1."
+"The other ships had all taken up anchoring positions around the large green bridge that towered over the river .
+",NNS," The number of the object of the sentence is ""one."""
+"The Grand Master frowned at the tarnished grain , she could of at least had the decency to defile the floor .
+",NN," The number of the object of the sentence is ""The Grand Master."""
+"I swipe my palms over my jeans .
+",NNS," The subject of the sentence is ""I,"" so the object must be ""jeans."""
+"And she had a special abilities just like me .
+",NNS, There is no object in the sentence.
+"The wind carried fragments of laughter over to the balcony .
+",NNS," The number of the object of the sentence is ""fragments."""
+""" My Dad had a stroke about 5 years ago .
+",NN," The number of the object of the sentence is ""5."""
+"I know Arlo 's capabilities and James is only human .
+",NNS," The number of the object of the sentence ""I know Arlo 's capabilities and James is only human ."" is singular."
+"His eyes shot bitter venom at her .
+",NN," The number of the object of the sentence ""His eyes shot bitter venom at her"" is singular."
+"Her questing fingers found his flat , male nipple ; she smiled to see it draw to a tight point under her touch .
+",NN," The number of the object of the sentence is ""one."""
+"Who knew what nightmare his brother would raise ?
+",NN," The number of the object of the sentence ""Who knew what nightmare his brother would raise ?"" is singular."
+"He steps down another stair and then another , closing in on me like the damn walls always do .
+",NN, There is no object in the sentence.
+"You have four new messages from your grandpa !
+",NNS," The number of the object of the sentence ""You have four new messages from your grandpa!"" is four."
+"He saw easy marks in the two young sailors .
+",NNS," The number of the object of the sentence ""He saw easy marks in the two young sailors."" is two."
+"Whatever was happening , my trembling hands had already started the task of searching for the spot where I 'd left off .
+",NN," The number of the object of the sentence is ""one""."
+"While I waited , still clutching Sawyer 's hand , I felt the stares around me .
+",NNS," The number of the object of the sentence ""While I waited , still clutching Sawyer 's hand , I felt the stares around me ."" is one."
+""" Son , I saw those pages the vamps sent .
+",NNS," The number of the object of the sentence is ""pages."""
+"He could feel the heaviness in her heart .
+",NNS," The number of the object of the sentence ""He could feel the heaviness in her heart."" is singular."
+"It 's carrying hardware , no crew - everything on automatic . ""
+",NN," The number of the object of the sentence ""It 's carrying hardware , no crew - everything on automatic . "" is ""everything."""
+"Caterina pulled the reins of her horse in , so that it reared .
+",NNS," The number of the object of the sentence ""Caterina pulled the reins of her horse in , so that it reared ."" is one."
+"The bite shot a zing of sensation to every limb .
+",NN," The number of the object of the sentence ""The bite shot a zing of sensation to every limb."" is one."
+"The company was making significant leaps every day and he 'd become confident in the abilities of his subordinate Officers .
+",NNS," The number of the object of the sentence is "" Officers ""."
+"But did she have the sorts of dreams I had ?
+",NNS," The number of the object of the sentence ""But did she have the sorts of dreams I had ?"" is ""sorts""."
+""" Oops -- dropped my pen . ""
+",NN," The number of the object of the sentence ""Oops -- dropped my pen."" is one."
+"I can still tell you what was in there : Two dresses , one fancier than the other .
+",NNS, The number of the object of the sentence is two.
+"It also hovered only a few inches from her skin , same as with Kingsley .
+",NNS," The number of the object of the sentence is ""same as with Kingsley."""
+"Once the tents were up , a variety of colors checkered the landscape .
+",NN," The number of the object of the sentence is ""a variety of colors."""
+"Mara set down a platter overflowing with biscuits , warm slices of fresh bread , bacon , and sausage links .
+",NN," The number of the object of the sentence ""Mara set down a platter overflowing with biscuits , warm slices of fresh bread , bacon , and sausage links ."" is 4."
+"A tingle of excitement ran down his spine .
+",NN, The number of the object of the sentence is 1.
+"Her comment pricks my curiosity , but she continues before I can ask her about it .
+",NN," The number of the object of the sentence is ""1""."
+"Will probably make an excellent hunter , too .
+",NN," ""Too"" is not a noun."
+"When he arrived to the tables he found his group playing cards as if nothing was happening .
+",NNS," The number of the object of the sentence ""When he arrived to the tables he found his group playing cards as if nothing was happening."" is singular."
+"Usually , the pill dulled all areas of the brain except for the one in which the person was naturally most gifted .
+",NNS," The number of the object of the sentence is ""one""."
+"Then I pick up a razor that 's by my foot and break up the clumps with it .
+",NN," The number of the object of the sentence is ""a razor."""
+"His body stopped inches away from hers .
+",NNS," The number of the object of the sentence ""His body stopped inches away from hers."" is singular."
+"At sixteen , she could be considered a suspect .
+",NN, The number of the object of the sentence is sixteen.
+"Anger must be cutting off the blood supply to her brain .
+",NN," The number of the object of the sentence ""Anger must be cutting off the blood supply to her brain."" is singular."
+""" I found cameras in the bedrooms ! ""
+",NNS," The number of the object of the sentence ""I found cameras in the bedrooms!"" is plural."
+"Standing a few yards away was a little girl , her head cocked at an impossible angle and dry blood covering her mouth .
+",NNS," The number of the object of the sentence is ""a little girl."""
+"I swallow my toast and take a sip of tea .
+",NN," The number of the object of the sentence ""I swallow my toast and take a sip of tea"" is one."
+"Why , when I look in your eyes , I see the wheels turning ? ""
+",NNS," The number of the object of the sentence ""Why , when I look in your eyes , I see the wheels turning ?"" is ""?""."
+"Pork was getting a good price and they 'd been able to buy another horse and a small wagon .
+",NN," The number of the object of the sentence is ""another horse and a small wagon."""
+"As soon as you reach the bottom use your compass to navigate there .
+",NNS," The number of the object of the sentence is ""there."""
+"When I went to bed earlier , I heard the typical night noises from the nocturnal animals in the trees and the insects making their usual sounds .
+",NNS," The number of the object of the sentence is ""noises."""
+"The second dark-haired man snapped off a salute .
+",NN," The number of the object of the sentence ""The second dark-haired man snapped off a salute"" is 2."
+"I was just bagging apples when my cell phone rang .
+",NNS," The number of the object of the sentence ""I was just bagging apples when my cell phone rang"" is one."
+"An evil woman would have given the disks to Bill 's boss , Eric .
+",NNS," The number of the object of the sentence ""An evil woman would have given the disks to Bill 's boss , Eric ."" is 3."
+"He used the cloth to blot them away .
+",NN," The number of the object of the sentence ""He used the cloth to blot them away"" is plural."
+"I shuddered at the eerie image and sat down on one of the uncomfortably firm red sofas that filled the family Cinema .
+",NNS," The number of the object of the sentence is ""one."""
+""" I hunt monsters and I think there is one here .
+",NNS," The number of the object of the sentence ""I hunt monsters and I think there is one here."" is one."
+"They made their exit together and , shortly thereafter , her magic carried them both far away .
+",NN, There is no number given for the object of the sentence.
+"' They 'll keep your spark plugs working if you 're lucky , but that 's about it .
+",NNS," The number of the object of the sentence ""' They 'll keep your spark plugs working if you 're lucky , but that 's about it .
+"" is plural."
+"Tonight I bought condoms , and almost nothing else , with the boy I 'm planning to use them with .
+",NNS," The number of the object of the sentence is ""2""."
+"The stone had a smooth , almost glassy quality as it reflected the evening sun .
+",NN," The number of the object of the sentence is ""one""."
+"Fallon suppressed a groan .
+",NN, There is no object in the sentence.
+"Either way , Lena would be reading the crossword puzzle .
+",NN," The number of the object of the sentence ""Either way , Lena would be reading the crossword puzzle ."" is singular."
+"Fortunately , she hadn 't requested references .
+",NNS," The number of the object of the sentence ""Fortunately , she hadn 't requested references .
+"" is singular."
+"We found the labs on the next floor .
+",NNS," The number of the object of the sentence ""We found the labs on the next floor."" is singular."
+"I ordered two hamburgers for him and a small Pepsi for me , and returned to the table to wait .
+",NNS," The number of the object of the sentence is ""two."""
+"He must have felt pity for me , otherwise he never would have smiled and answered .
+",NN," The number of the object of the sentence is ""one""."
+"He took a cloth and wiped her face , and then he kissed her forehead .
+",NN," The number of the object of the sentence is ""one""."
+"He flipped a few more pages .
+",NNS," The number of the object of the sentence ""He flipped a few more pages"" is singular."
+"Quinlan closed the file and set it down , then crossed his arms over his chest .
+",NN," The number of the object of the sentence is ""one""."
+"I could almost see his mind spinning .
+",NN," The subject of the sentence is ""I."""
+""" Can I borrow a pen ? ""
+",NN," The number of the object of the sentence ""Can I borrow a pen?"" is one."
+"And in my head , I 'm already composing the email that I 'll send to Becca about this experience .
+",NN," The number of the object of the sentence is ""this experience."""
+"Buck patted the pistol inches from our heads .
+",NNS," The number of the object of the sentence ""Buck patted the pistol inches from our heads"" is one."
+"In her mind 's eye , Sean 's Collar gleamed on his throat like a white-hot band , the Celtic knot a tangle of bright energy .
+",NN," The number of the object of the sentence is ""one."""
+"Ed called everyone Kevin .
+",NNS, There is no object in this sentence.
+"I heard the sirens first .
+",NNS," The number of the object of the sentence ""I heard the sirens first."" is one."
+"I zipped the pamphlets into my backpack and stepped into the hallway , thinking it was lucky I 'd kept that stupid elevator key after all .
+",NNS," The number of the object of the sentence is ""one."""
+"Mallory and I exchanged hugs .
+",NNS, There is no object in the sentence.
+"Jennifer shouldered a large platter and tacked on an artificial smile .
+",NN," The number of the object of the sentence is ""one""."
+"I had ignored her obvious attempts to ditch me .
+",NNS," The number of the object of the sentence ""I had ignored her obvious attempts to ditch me."" is singular."
+"He pushed the notepad across the table .
+",NN," The number of the object of the sentence ""He pushed the notepad across the table .
+"" is singular."
+""" Why don 't we just take the tape to the Principal ? ""
+",NN," The number of the object of the sentence ""Why don't we just take the tape to the Principal?"" is ""tape""."
+"I skim down the page briefly before I begin reading .
+",NN," The number of the object of the sentence ""I skim down the page briefly before I begin reading"" is ""one""."
+"Austin set up the speakers and docked his iPod .
+",NNS," The number of the object of the sentence ""Austin set up the speakers and docked his iPod."" is singular."
+"She stiffened her backbone and lifted her chin .
+",NN," The number of the object of the sentence ""She stiffened her backbone and lifted her chin"" is one."
+"I explored the contents of the cupboard , but didn 't find anything that sounded good .
+",NNS, There is no object in the sentence.
+"Hormones and sex appeal suck balls .
+",NNS, There is no object in the sentence.
+"She got the coke .
+",NN, 1
+""" I beg your pardon , Mademoiselle , she 's a Turk - she recently followed me to France , from Martinique . ""
+",NN," The number of the object of the sentence is ""she."""
+"Kai added more than enough milk to his , hesitating before he asked , "" Did you mean that ? ""
+",NN," The number of the object of the sentence is ""more than enough milk""."
+"She nudged her horse several paces to one side and let out a sigh of relief .
+",NNS, There is no object in the sentence.
+"His arrow missed the wolves by a large margin .
+",NNS," The number of the subject is ""one""; the number of the object is ""several""."
+"Savannah found two candles .
+",NNS, Two
+"I think perhaps the latter because they would not have carried him down the stairs last night when he was bleeding .
+",NN," The number of the object of the sentence is ""one""."
+"If so , they risked capture by the Spanish , or murder by this or some other tribe on the way south or on the way back .
+",NN," The number of the object of the sentence is ""they""."
+"Henrietta gave a shrug , which was probably the wrong thing to do .
+",NN," The number of the object of the sentence ""Henrietta gave a shrug , which was probably the wrong thing to do .
+"" is one."
+"Otherwise you can run some errands for me , like picking up your prom dress . ""
+",NNS," ""Prom dress"" is the object of the sentence."
+"Gloria always had her best interests at heart .
+",NNS," The number of the object of the sentence ""Gloria always had her best interests at heart"" is singular."
+"The creatures slammed into their blades and shields amidst a cacophony of screeches and guttural sounds unintended for men 's ears .
+",NN," The number of the object of the sentence is ""a cacophony of screeches and guttural sounds unintended for men's ears."""
+"We had families to worry about . ""
+",NNS," The number of the object of the sentence ""We had families to worry about"" is singular."
+"If you ran out on them and left them here , how could you look those little wobbly noses in the face again ? '
+",NNS," The number of the object of the sentence ""If you ran out on them and left them here , how could you look those little wobbly noses in the face again ? '"" is plural."
+""" Two hundred dollars ? ""
+",NNS," The number of the object of the sentence ""Two hundred dollars"" is ""two""."
+"We can 't take any chances . ""
+",NNS," The number of the object of the sentence ""We can 't take any chances . "" is ""0""."
+"She probably doesn 't even need a bodyguard .
+",NN," The number of the object of the sentence ""She probably doesn 't even need a bodyguard .
+"" is singular."
+"A few hundred yards through the woods he could see the frame of a barn under construction .
+",NN," The number of the object of the sentence is ""a""."
+"Then again , he was wearing a bulletproof vest .
+",NN," The number of the object of the sentence ""Then again , he was wearing a bulletproof vest ."" is singular."
+"I hold an umbrella over three heads , fighting off the rain while the moisture brightens the old mounds of dirt , like a fresh dig .
+",NN," There is no clear subject in this sentence, so it is difficult to determine what the number of the object is."
+""" I don 't hurt females .
+",NNS," The number of the object of the sentence ""I don't hurt females."" is singular."
+"She loved jewelry and it had an assortment of jewelry inside .
+",NN," The number of the object of the sentence ""She loved jewelry and it had an assortment of jewelry inside"" is singular."
+"He jerked the material over his head , baring his chest to her view .
+",NN, The number of the object of the sentence is singular.
+"NO NO NO NO NO NO NO .
+",NN, There is no object in the sentence.
+"I 'd drunk a soda and let it go at that .
+",NN, There is no object in the sentence.
+"He knew his duty .
+",NN," The number of the object of the sentence ""He knew his duty."" is singular."
+""" I have exactly one fifteen minute video . ""
+",NN, 15
+"Our EBT sheeple will out vote the opposition .
+",NN," The number of the object of the sentence ""Our EBT sheeple will out vote the opposition."" is ""sheeple."""
+"Money can buy people many items .
+",NNS," The number of the object of the sentence ""Money can buy people many items."" is plural."
+"You 're making excuses for her .
+",NNS, There is no object in the sentence.
+"He 'd already put pints of blood and sweat into it , but he should be able to safely hand it over now .
+",NNS," The number of the object of the sentence is ""it""."
+"I 've got eleven more to go . ""
+",NNS, eleven
+"Because you had a mental breakdown ? ""
+",NN," The number of the object of the sentence ""Because you had a mental breakdown?"" is zero."
+"We must set a good example . ""
+",NN," The number of the object of the sentence ""We must set a good example."" is singular."
+"Mr. Skeeter turned the glare of disappointment on me and I shut up .
+",NN," The number of the object of the sentence ""Mr. Skeeter turned the glare of disappointment on me and I shut up"" is one."
+"Do you accept the responsibility this task entails , and do you now swear to uphold our laws ?
+",NN," The number of the object of the sentence is ""two""."
+""" I 'm sending you his info . ""
+",NN," The number of the object of the sentence ""I'm sending you his info."" is singular."
+"One of his men is regaining consciousness and is attempting to stand .
+",NN," The number of the object of the sentence is ""one."""
+"We will not allow harm to come her way again . ""
+",NN," ""Her"" is the object of the sentence."
+"I felt my pulse quicken all the way to my fingertips as a million questions flooded my head .
+",NN," The number of the object of the sentence is ""million."""
+""" Activate all perimeter sensors . ""
+",NNS, There is no object in the sentence.
+"They shared unique powers , but those powers could never be blended .
+",NNS," The number of the object of the sentence ""They shared unique powers , but those powers could never be blended ."" is plural."
+"He straightened her gown , then crossed the room , picked up a comforter from a divan , returned , and covered her with it .
+",NN," The number of the object of the sentence is ""a comforter."""
+"Charlie honked his horn impatiently .
+",NN," The number of the object of the sentence ""Charlie honked his horn impatiently."" is singular."
+"' They sign a pledge not to touch alcohol .
+",NN," The subject of the sentence is ""They,"" so the object must be ""a pledge."""
+"His dark hair looked artificial , like something penned in with a Magic Marker .
+",NN," The number of the object of the sentence is ""one."""
+"Bob whittled a scale into the branch .
+",NN," The number of the object of the sentence ""Bob whittled a scale into the branch"" is singular."
+"Applying pressure , I worked my thumbs up the muscles of his spine .
+",NNS," The number of the object of the sentence is ""one""."
+"He found no batteries , but two foil wrapped cereal bars looked to be in relatively good condition , so he tucked them into his pocket .
+",NNS, Two
+"The very strength of the British fleet left the ships on the blockade in strangely isolated circumstances .
+",NNS," The number of the object of the sentence is ""strangely isolated circumstances."""
+"I pushed aside my growing unease .
+",NN," The number of the object of the sentence ""I pushed aside my growing unease."" is singular."
+"His magic had chosen the method .
+",NN," The number of the object of the sentence ""His magic had chosen the method"" is singular."
+"The little boy , Hanif , is shooting daggers at me with his eyes -- all of us actually .
+",NNS," ""The little boy"" is the subject of the sentence, so the number would be singular."
+"Who would he share his secrets with when she was gone ?
+",NNS," The number of the object of the sentence ""Who would he share his secrets with when she was gone ?"" is ""one""."
+""" On the other hand , he 'd dropped his steak into the fire , so I 'd had to split mine with him .
+",NN," The number of the object of the sentence is ""one."""
+"Once he had fought the invisible ties that bound him .
+",NNS," The number of the object of the sentence ""Once he had fought the invisible ties that bound him"" is singular."
+"A tremor of dread rippled down Julia 's spine .
+",NN," The number of the object of the sentence is ""one""."
+"We could then start ruling together .
+",NN," The number of the object of the sentence ""We could then start ruling together"" is singular."
+""" I had a hunch that was what was going on . ""
+",NN," The subject of the sentence is ""I."""
+"He was wearing brown slacks and a tan button-down shirt , with wool slippers .
+",NNS," The number of the object of the sentence is ""a tan button-down shirt."""
+"She could use her healing gifts enough to help .
+",NNS, There is no object in the sentence.
+"Trick smiles and his eyes hold no humor , just dead blackness , like a shark 's .
+",NN," The number of the object of the sentence is ""1""."
+"I put him in a couple of deals for peanuts and made him over one hundred thousand dollars . ""
+",NNS," The number of the object of the sentence ""I put him in a couple of deals for peanuts and made him over one hundred thousand dollars."" is ""one hundred thousand dollars."""
+"He had felt an initial terror and an urge to run for cover .
+",NN," The number of the subject is singular, so the verb must also be singular. The correct answer is ""He had felt an initial terror and an urge to run for cover."""
+"Shaken , he redoubled his efforts to concentrate .
+",NNS," The number of the object of the sentence ""Shaken , he redoubled his efforts to concentrate ."" is 2."
+"I didn 't want the devils to come for me and the site of losing my whole family still stung me .
+",NNS," The number of the object of the sentence is ""one""."
+"Might as well do the furniture too , for he had taken over the existing furniture when he bought the home .
+",NN, There is no number given for the object of the sentence.
+""" How many other sisters do you have , again ? ""
+",NNS," The number of the object of the sentence is ""other."""
+""" So you have fangs ?
+",NNS," The number of the object of the sentence ""So you have fangs?"" is one."
+"She 's kept up her version of the villainous Andrade clan when Nick only remembered them warmly welcoming him .
+",NN," The number of the object of the sentence is ""one."""
+""" I never take clients along on a verification trip .
+",NNS," The number of the object of the sentence is ""one."""
+"Eli put down his hot chocolate .
+",NN," The number of the object of the sentence ""Eli put down his hot chocolate."" is singular."
+""" If I give the order to get out , I don 't want any arguments . ""
+",NNS," The number of the object of the sentence ""If I give the order to get out, I don't want any arguments."" is ""0""."
+"At state , we usually have two relay teams , the main team and subs .
+",NNS, The number of the object of the sentence is two.
+"She just didn 't want her record producing boyfriend to see the evidence of her betrayal .
+",NN," The number of the object of the sentence is ""one."""
+""" The next time you feel like getting upset and yelling at the entire council , do us all a favor ? ""
+",NN," The number of the object of the sentence is ""us."""
+"He knocked two coins off the price if I gave him the Jeep for a week . ""
+",NNS," The number of the object of the sentence ""He knocked two coins off the price if I gave him the Jeep for a week."" is two."
+"I gave a lopsided shrug .
+",NN, There is no object in the sentence.
+"He took his wallet out of a pocket and retrieved a roll of notes .
+",NN," The number of the object of the sentence is ""a roll of notes."""
+"They all have a personality .
+",NN, There is no object in the sentence.
+"I made vague regretful noises so that Lillian would continue .
+",NNS," The number of the object of the sentence ""I made vague regretful noises so that Lillian would continue ."" is singular."
+"The more you rise in life , more you lose the freedom to operate .
+",NN," The number of the object of the sentence ""The more you rise in life , more you lose the freedom to operate ."" is ""more"" ."
+"You have ripped the lid off the powder keg .
+",NN," The subject of the sentence is ""You,"" so the number of the object would be singular, even though ""lid"" is a plural word."
+"Savannah let out another breathy moan and he thought his heart stopped .
+",NN, The number of the object of the sentence is one.
+"You cook his meals , clean his home , give him regular sex that makes him easier to deal with .
+",NNS," The number of the object of the sentence is ""one."""
+"Judge hadn 't experience joy in his life for decades .
+",NN," The number of the object of the sentence ""Judge hadn't experienced joy in his life for decades."" is singular."
+"Rina , who lacked artifice and possessed extraordinary depth offered him many layers to uncover and revel in .
+",NNS," The number of the object of the sentence is ""many."""
+"With so much powerful opposition , I don 't give good odds on their success .
+",NNS," The number of the object of the sentence is ""I."""
+"How else could I explain his powers ?
+",NNS," The number of the object of the sentence ""How else could I explain his powers ?"" is singular."
+"Jon had no other directions to follow so he turned the machine to the vector KT pointed too .
+",NNS," The number of the object of the sentence is ""one."""
+"The mingled gray and silver lifelines decorated the landscape like tinsel on a Christmas tree .
+",NN," The number of the object of the sentence is ""tinsel."""
+"Like the chunks of cleanser in the shower . ""
+",NNS," The number of the object of the sentence ""Like the chunks of cleanser in the shower"" is ""chunks."""
+"Claire reared back , her black bob swinging .
+",NN," The number of the object of the sentence is ""one""."
+"I want his cock inside me .
+",NN," The number of the object of the sentence is ""one""."
+"It was definitely covering its tracks .
+",NNS, There is no object in the sentence.
+"His blue eyes held an intelligence that indicated that he was not easily taken in by falsehoods .
+",NN," The number of the subject of the sentence is ""one""."
+"Alcoa needs tin and bauxite and copper .
+",NN," The number of the object of the sentence ""Alcoa needs tin and bauxite and copper"" is three."
+"You , Uncle Karol , will teach your classes tomorrow .
+",NNS," The number of the object of the sentence ""You , Uncle Karol , will teach your classes tomorrow ."" is singular."
+"She rubbed its hardness on her cheeks , and she allowed her lips to glide over the soft wrinkled skin of his scrotum .
+",NNS," The number of the object of the sentence is ""one""."
+"You take some deep breaths and calm down . ""
+",NNS," The number of the object of the sentence ""You take some deep breaths and calm down . "" is ""some."""
+""" No , listen , "" he said , a knot of need tightening in his gut as her sweet scent stormed his senses .
+",NNS," The number of the object of the sentence is ""a knot of need tightening in his gut as her sweet scent stormed his senses."""
+""" You could describe the Exclusive Brethren as an extremist splinter group from them .
+",NNS," The number of the object of the sentence ""You could describe the Exclusive Brethren as an extremist splinter group from them."" is ""them""."
+""" I mean umm ... hi !
+",NN," The number of the object of the sentence ""I mean umm ... hi!"" is zero."
+"I know the lesson for the day .
+",NN, There is no object in the sentence.
+"Gathering her up in his arms , he lifted her thighs around his waist and drove home in one deep thrust .
+",NNS, The number of the object of the sentence is singular.
+"Stopping at a vendors stall , Scarborough bought a banana which she shared with her husband in a rare moment of generosity .
+",NN," The number of the object of the sentence is ""one""."
+"I followed his advice almost to the letter because I was so grateful for what he had done for me .
+",NN," The number of the object of the sentence is ""I""."
+"I relayed the elements of the toxin to Aidan .
+",NNS," The number of the object of the sentence ""I relayed the elements of the toxin to Aidan"" is one."
+"Most don 't have powers .
+",NNS, Most is the subject of the sentence and therefore does not have a number.
+"Overhead , the wind chased the clouds across the darkening sky .
+",NNS," The number of the object of the sentence is ""the clouds""."
+"I aint pain ya to run a social club , ' he shouted , his voice was coarse and guttural .
+",NNS, There is no object in the sentence.
+"He dismissed that possibility accordingly .
+",NN, There is no object in the sentence.
+"She took a towel and covered herself with it .
+",NN," The number of the object of the sentence ""She took a towel and covered herself with it"" is singular."
+"Just when Alix was drifting back to sleep , she heard a loud moan , as if Laurel was in horrible pain .
+",NN," The number of the object of the sentence is ""one."""
+"Jane couldn 't suppress the yawn .
+",NN, There is no object in the sentence.
+"He has no male peers in his life .
+",NNS, There is no object in this sentence.
+"I didn 't need her pity .
+",NN," The number of the object of the sentence ""I didn't need her pity."" is singular."
+"Lily made the necessary introductions , marveling at how Mr. Dolan , too , seemed inordinately eager to make Janey 's acquaintance .
+",NNS," The number of the object of the sentence is ""one."""
+""" All those who live here take their obligations seriously . ""
+",NNS," The number of the object of the sentence is ""those."""
+"She placed her palms on the glass .
+",NNS," The number of the object of the sentence ""She placed her palms on the glass."" is singular."
+"Heavy slabs of muscles layered his ribs , but his skin was too pale , and cold to the touch .
+",NNS," The number of the object of the sentence is ""muscles."""
+"He offered no denial about the fact that he 'd sneaked inside .
+",NN," The number of the object of the sentence is ""no denial."""
+"The ambulance men bent down and with gentle , careful movements peeled back the patchwork quilt .
+",NN, The number of the object of the sentence is two.
+"You want their minds .
+",NNS," The number of the object of the sentence ""You want their minds ."" is singular."
+"I was now navigating the quarry roads from the map .
+",NNS," The number of the object of the sentence ""I was now navigating the quarry roads from the map"" is singular."
+"David Wise had been delivering babies for more than twenty years , and his calm reassurance had gone a long way toward relieving James 's fears .
+",NNS," The number of the object of the sentence is ""twenty."""
+""" You 're pleading less-than-perfect English skills to explain the inappropriateness of barking ' stay ' at me across the parking lot like that ? ""
+",NNS," The number of the object of the sentence is ""9""."
+"Her hands traveled down my backside as she dug her nails into my back , exciting me more than I already was .
+",NN," The number of the object of the sentence is ""one."""
+"She hadn 't put any restrictions or limitations on who or what kind of man she wanted to fulfill her needs .
+",NNS," The number of the object of the sentence is ""one."""
+""" Wow , I 've never met a real writer before .
+",NN," The number of the object of the sentence ""Wow, I've never met a real writer before."" is singular."
+"The cold bit like fangs during the night .
+",NNS, There is no object in this sentence.
+"Lavender unwound the chain from around the handcuffs and she was free to move around , albeit her left hand was still handcuffed .
+",NN," The number of the object of the sentence is ""one."""
+"Caroline was still idly watching the monitor when suddenly Bowie 's target signal lit up .
+",NN," The number of the object of the sentence is ""one."""
+"The men drank their beers .
+",NNS, There is no object in the sentence.
+"His mind hammered his growing insecurity .
+",NN," The number of the object of the sentence is ""one""."
+"You have no aspirations .
+",NNS, There is no object in the sentence.
+""" I can 't sense the changes fast enough .
+",NNS, There is no object in the sentence.
+"No need to hide the camp , just hide our tracks from here . ""
+",NNS," The number of the object of the sentence ""No need to hide the camp , just hide our tracks from here . "" is ""our tracks."""
+"It had cost him a little more than a hundred dollars .
+",NNS," The number of the object of the sentence ""It had cost him a little more than a hundred dollars."" is one."
+"They found seats in the smoker and Morris told Dan to sit near the window .
+",NNS," The number of the object of the sentence ""They found seats in the smoker and Morris told Dan to sit near the window ."" is one."
+"He heard another swift intake of breath when the trees suddenly cleared and there it was .
+",NN, There is no number given for the object in the sentence.
+"She sips the lemonade , her bones clacking .
+",NN," The number of the object of the sentence ""She sips the lemonade , her bones clacking ."" is one."
+"His smile bared his fangs .
+",NNS," The number of the object of the sentence ""His smile bared his fangs."" is singular."
+"Do not make excuses for your misguided actions . ""
+",NNS," ""Do not make excuses for your misguided actions."" There is no object in this sentence."
+""" I beg your pardon ? ""
+",NN, There is no object in this sentence.
+"How about if I wore boxers ?
+",NNS," The number of the object of the sentence ""How about if I wore boxers ?"" is singular."
+"He will give you updates but thinks you should hump it in ?
+",NNS," The number of the object of the sentence ""He will give you updates but thinks you should hump it in ?"" is singular."
+"Now she had obligations , a mother who , despite what she said , needed her , and now a child to take care of .
+",NNS," The number of the object of the sentence is ""one."""
+"Fifty thousand dollars . ""
+",NNS," The number of the object of the sentence ""Fifty thousand dollars . "" is 50,000."
+"Make sure some of you feed balls to Joan . ""
+",NNS," The number of the object of the sentence ""Make sure some of you feed balls to Joan ."" is ""some."""
+"He set the spoon down and turned with a touch of panic .
+",NN," The number of the object of the sentence ""He set the spoon down and turned with a touch of panic"" is singular."
+"At Dad 's insistence I 've been seeing a shrink monthly ever since .
+",NN," The number of the object of the sentence is ""one."""
+"Roach stopped pacing for a moment and in the silence I realised that his footsteps had been a constant beat like a metronome .
+",NN," The number of the object of the sentence is ""one""."
+"They need the packs with them .
+",NNS," The number of the object of the sentence ""They need the packs with them"" is plural."
+"He 'd dated models , actresses and even a chanteuse or two .
+",NNS," The number of the object of the sentence ""He 'd dated models , actresses and even a chanteuse or two ."" is two."
+"I sought the advice of the Monsignor .
+",NN," The number of the object of the sentence ""I sought the advice of the Monsignor"" is singular."
+"Dagan had his suspicions on how the man was capable of such things , but if anyone knew , no one said .
+",NNS," The number of the object of the sentence is ""no one."""
+"He already had a banana protruding from his coat pocket .
+",NN," The number of the object of the sentence ""He already had a banana protruding from his coat pocket"" is one."
+"His expression turned sly .
+",NNS," The number of the object of the sentence ""His expression turned sly"" is singular."
+"Pete was fighting the most powerful canine on earth .
+",NN, 1
+""" The McCabe warriors have a reputation for being fair .
+",NN," The number of the object of the sentence ""The McCabe warriors have a reputation for being fair."" is ""one""."
+""" I have your peace offering . ""
+",NN," The number of the object of the sentence ""I have your peace offering."" is singular."
+"Thomas , and one or two others , nodded greetings , but the rest either ignored me or scowled pointedly before turning away .
+",NNS, The number of the object of the sentence is two.
+"I can feel my father cringing in embarrassment .
+",NN," The number of the object of the sentence is ""one""."
+"That would barely fit a quarter of us .
+",NN," The number of the object of the sentence ""That would barely fit a quarter of us"" is ""a quarter."""
+""" You had very good advice .
+",NN," The number of the object of the sentence ""You had very good advice."" is ""advice."""
+"No one saw nothin ' ? ""
+",NN, There is no object in this sentence.
+"Colby took the receiver .
+",NN," The number of the object of the sentence ""Colby took the receiver."" is singular."
+"I didn 't mean no harm .
+",NN, There is no object in this sentence.
+"Mike rubbed his temples .
+",NNS," The number of the object of the sentence ""Mike rubbed his temples"" is one."
+"I didn 't want excuses .
+",NNS, There is no object in the sentence.
+"He does not take slaves .
+",NNS," The number of the object of the sentence ""He does not take slaves"" is singular."
+"She heard the crop clatter on the floor just before his large hands cupped her hips .
+",NN," The number of the object of the sentence is ""one."""
+"We were soon leaving the pier and our tail far behind .
+",NN," The number of the object of the sentence is ""our tail."""
+"In life the wearer of that skull must have presented an alien and monstrous aspect .
+",NN," The number of the object of the sentence is ""that skull""."
+"The very thing the people of the New World feared most was happening several centuries later ; the rule by despotic few was coming of age .
+",NNS," The number of the object of the sentence is ""few""."
+""" But the kidnappers , he found the kidnappers in Marin County when no one else could - . ""
+",NNS," The number of the object of the sentence is ""he."""
+"The producers cut Arthur 's speech and had the cameras cut away to Elton John .
+",NN," The number of the object of the sentence ""The producers cut Arthur 's speech and had the cameras cut away to Elton John ."" is one."
+"The first round is easy , we just add our scores .
+",NNS," The number of the object of the sentence ""The first round is easy , we just add our scores ."" is ""1""."
+"Vendors sold their wares out of baskets and wooden carts ; there was food , clothing , piles of kitchen items , and used goods .
+",NNS," The number of the object of the sentence is ""there."""
+"I felt his body stiffen in response to it happening .
+",NN, The number of the object of the sentence is singular.
+"I sat up a little straighter and met her eyes .
+",NN," The number of the object of the sentence ""I sat up a little straighter and met her eyes"" is one."
+"Laughing , delighting in the sensation of being purely clean , knowing they had left the dust storms back behind them .
+",NNS," The number of the object of the sentence is ""they."""
+"I had my suspicions already .
+",NNS," ""I had my suspicions already."" is a sentence without an object."
+"Lily brought Mary Ellen a wet cloth so she could wash her tear stained face .
+",NN, The number of the object of the sentence is singular.
+"They locked the device from the back .
+",NN, There is no object in the sentence.
+"She stood mere inches from him .
+",NNS," The number of the subject is singular, so the number of the object must also be singular."
+"Amanda stayed motionless as she relaxed in the sun .
+",NNS," The number of the object of the sentence is ""one."""
+"' Why do I get the impression I should eat this quickly , before I lose my appetite again ? '
+",NN," The number of the object of the sentence ""' Why do I get the impression I should eat this quickly , before I lose my appetite again ? '
+"" is one."
+"His chest felt constricted and his forehead slick with sweat , and neither had anything to do with his strike on The Dominion .
+",NN," The number of the object of the sentence is ""his strike on The Dominion."""
+"They won the tournament and had a good time .
+",NN," The number of the object of the sentence ""They won the tournament and had a good time"" is singular."
+"We 'll need samples .
+",NNS," The number of the object of the sentence ""We 'll need samples ."" is singular."
+"You always had such a passion for food . ""
+",NN," The number of the object of the sentence ""You always had such a passion for food."" is ""passion."""
+"He would spend the rest of the morning digging the trench for it .
+",NN, The number of the object of the sentence is singular.
+"American gangsters stole the design . ""
+",NN," The number of the object of the sentence ""American gangsters stole the design"" is singular."
+"Barry and I told everyone goodbye and started to make our way to the hall , past the wall of windows that looked down to the street .
+",NN," The number of the object of the sentence is ""2""."
+"Nova I follow Tristan 's directions to a small bar on a corner a few miles away .
+",NNS," The number of the object of the sentence is ""a small bar on a corner a few miles away."""
+"In fact , I was against going back into town at all , I felt an unexplainable paranoia about it .
+",NN," ""I"""
+"Most of the scorpions in the Overland just gave you a terrible sting , but some had poison toxic enough to kill a human .
+",NN," ""Most of the scorpions in the Overland just gave you a terrible sting , but some had poison toxic enough to kill a human .""
+
+The number of the object of the sentence is ""some."""
+"That will throw off several meetings that are all tightly scheduled for the day and could cause several international issues . ""
+",NNS," The number of the object of the sentence ""That will throw off several meetings that are all tightly scheduled for the day and could cause several international issues."" is ""several."""
+"He was making a weak spectacle of himself before a cold and unimpressed machine that could only stare at him silently .
+",NN," The number of the object of the sentence is ""a cold and unimpressed machine that could only stare at him silently."""
+"Instead , I heard the springs of the bed being forced down and then the strangled cry of my father as a hand enclosed his neck .
+",NNS," The number of the object of the sentence is ""one""."
+"Up there he could survey his surroundings .
+",NNS," The number of the object of the sentence ""Up there he could survey his surroundings."" is singular."
+"But only if I took the proverbial bull by the horns .
+",NN," The number of the object of the sentence ""But only if I took the proverbial bull by the horns."" is singular."
+"He saw the words flow through the man 's mouth and down into his chest , like a breath of air full of letters .
+",NN," The number of the object of the sentence is ""a""."
+""" To a man like Redding , ' attention to detail ' probably means some pretty explicit descriptions of violence . ""
+",NNS," The number of the object of the sentence is ""attention to detail."""
+"Her husband stirred , a slight rippling of muscles , a suggestion of danger .
+",NN," The number of the object of the sentence ""Her husband stirred , a slight rippling of muscles , a suggestion of danger ."" is singular."
+"She directed the stallion over to Devlin , her eyes dark with conflict .
+",NN," The number of the object of the sentence is ""one""."
+"He raised the tea towel and I braced .
+",NN," The number of the object of the sentence ""He raised the tea towel and I braced"" is singular."
+"As she tied her shoes , guilt tied knots in her chest .
+",NNS," The number of the object of the sentence ""As she tied her shoes , guilt tied knots in her chest ."" is singular."
+"Walter stood two inches in front of me , so close my nose was nearly pressed against his chest .
+",NNS," The number of the object of the sentence is ""two."""
+""" I have a visitor ? ""
+",NN," The number of the object of the sentence ""I have a visitor"" is one."
+"I grabbed her butt and pushed her onto me , so that the length of my erection was going deeper and deeper into her .
+",NN," The number of the object of the sentence is ""one."""
+""" Trace hit three ducks , Mommy . ""
+",NNS," The number of the object of the sentence """" Trace hit three ducks , Mommy . ""
+"" is three."
+"Nicky made air quotes with his fingers .
+",NNS," The number of the object of the sentence ""Nicky made air quotes with his fingers."" is one."
+"After making only one wrong turn , I found the food processing plant .
+",NN," The number of the object of the sentence is ""one."""
+"Hundreds of fires dotted the hills all about him like stars that had fallen from the sky .
+",NNS, Hundreds
+"His hand reached out for Terri 's arm , they took a united bound toward the wall ... and were gone .
+",NN," The number of the object of the sentence is ""two""."
+"Sloane gave her a sarcastic glare .
+",NN," The number of the object of the sentence ""Sloane gave her a sarcastic glare .
+"" is singular."
+"Ali carefully studied his credentials , "" She 's upstairs in my room .
+",NNS," The number of the object of the sentence ""Ali carefully studied his credentials , "" She 's upstairs in my room .
+"" is ""She""."
+"Taking a deep breath , I tightened my light wrap around me before striding out of the room .
+",NN," The number of the object of the sentence is ""I."""
+"He swallowed the last morsel in his mouth and spoke .
+",NN," The number of the object of the sentence is ""one""."
+"She dropped her pizza back on her plate , frustration chasing away her first sign of hunger in days .
+",NN," The number of the object of the sentence is ""one""."
+"My arm felt super limp , but I tried to help him by paddling as well .
+",NNS," The number of the object of the sentence is ""one""."
+"I rubbed the drops from my brow and suddenly realised I was not alone .
+",NNS," The number of the object of the sentence is ""one."""
+""" But long term , it could save millions of dollars . ""
+",NNS," The number of the object of the sentence ""But long term, it could save millions of dollars."" is ""it."""
+"Come on , let 's get our seats . ""
+",NNS," The number of the object of the sentence ""Come on , let 's get our seats . "" is 1."
+"He saw the sorrow in her eyes , and he knew that she understood what hadn 't yet been said .
+",NN," The number of the object of the sentence is ""what."""
+"Then , when they rounded a bend , they saw a farm at the side of the road .
+",NN," The number of the object of the sentence is ""a."""
+"She closed the refrigerator and went back to the stove .
+",NN," The number of the object of the sentence is ""one""."
+"I threw my ruined blouse in the trashcan and quickly shed the rest of my clothes , pulling on shorts and a t-shirt .
+",NN," The number of the object of the sentence is ""ruined blouse."""
+""" Remember those counters that Tania was using against you ? ""
+",NNS," The number of the object of the sentence ""Remember those counters that Tania was using against you?"" is singular."
+"No , she 'd lost that whole choice option a year ago .
+",NN," The number of the object of the sentence is ""No""."
+"Then I remembered a crowbar in a box of Jane Engle 's tools I 'd had stored in my extra bedroom .
+",NN," The number of the object of the sentence is ""a crowbar."""
+""" Well , "" he muttered to himself , "" before we get that far I might have a few surprises for Flattery . ""
+",NNS," The number of the object of the sentence is ""one."""
+"The head emergency doctor placed the defibrillator paddles on my chest and said , "" Clear ! ""
+",NNS," The number of the object of the sentence ""The head emergency doctor placed the defibrillator paddles on my chest and said , "" Clear ! ""
+"" is one."
+""" I mean both our birthdays .
+",NNS, There is no number given for the object of the sentence.
+"He stuffs a few French fries in his mouth , but keeps talking .
+",NNS," The number of the object of the sentence is ""a few."""
+"However , Liz had barely reached the first rack when Cole grabbed her hand and hauled her outside . '
+",NN," ""However , Liz had barely reached the first rack when Cole grabbed her hand and hauled her outside . '"" is not a sentence."
+"He could get an air bubble in his IV .
+",NN," The number of the object of the sentence is ""one""."
+"But tomorrow I will make some enquiries .
+",NNS," ""But tomorrow I will make some enquiries."" is a sentence about future plans, so the number of the object is unknown."
+"For this project , he needed skills we couldn 't teach him .
+",NNS," The number of the object of the sentence is ""we""."
+"Reaching an outcropping a dozen feet above his quarry 's outpost , he raised his rifle .
+",NN," The number of the object of the sentence is ""one""."
+"She let out another hearty chuckle , but once again , no one joined in her laughter .
+",NN," The number of the object of the sentence ""She let out another hearty chuckle , but once again , no one joined in her laughter ."" is singular."
+"What if there were frozen pockets of saltwater in this glacier ?
+",NNS," The number of the object of the sentence ""What if there were frozen pockets of saltwater in this glacier ?"" is ""pockets""."
+"I resist the powerful urge to roll my eyes .
+",NN," The number of the object of the sentence is ""one""."
+"This involved vampire politics and intrigue , and I was being shoved into the middle of it .
+",NNS," The number of the object of the sentence ""This involved vampire politics and intrigue , and I was being shoved into the middle of it ."" is 3."
+""" Sounds like a challenge . ""
+",NN," The number of the object of the sentence ""Sounds like a challenge."" is one."
+"The prospect of having a vehicle to drive home the next day made her cheerful .
+",NN," The object of the sentence is ""vehicle."""
+"Maddie brought her fingernails to her teeth , and then chastised herself silently .
+",NNS," The number of the object of the sentence is ""one."""
+"If she didn 't pull herself together quickly , she 'd be blowing bubbles in the wind and letting others take care of her again .
+",NNS," The number of the object of the sentence is ""she""."
+"His eyes , though perhaps he couldn 't see properly , had that twinkle in them .
+",NN," ""His eyes"" is the subject of the sentence, so it is not the object."
+"Sometimes she scooped up the tiles and let them fall , clicking into a slippery heap .
+",NNS," The number of the object of the sentence is ""a""."
+"I despised the easy duty , the long boring days .
+",NN," The number of the object of the sentence is ""the long boring days."""
+"Various stickers adorned the bumper , one of which touted the name of the college his daughter had attended .
+",NN," The number of the object of the sentence ""Various stickers adorned the bumper , one of which touted the name of the college his daughter had attended ."" is one."
+"I called out to one of the attendants , "" You forgot his eyeball , "" and flung it at him .
+",NN," The number of the object of the sentence ""I called out to one of the attendants , "" You forgot his eyeball , "" and flung it at him .
+"" is singular."
+"Oriole tapped her pencil against her teeth .
+",NN, The number of the object of the sentence is one.
+"I give you full marks for cleverness , but you do not defeat our brother by becoming more and more like him . ""
+",NNS," ""I"""
+"I had three sisters .
+",NNS, Three
+"I grabbed a fork from the untouched tray , shoved the cart aside and threw myself at the demon .
+",NN," The number of the object of the sentence is ""one""."
+"Back in 1973 , members of the American Indian movement waged a bloody siege with the FBI in Wounded Knee , South Dakota .
+",NN, There is no object in the sentence.
+"He gave that quite long consideration before he spoke again .
+",NN," The number of the object of the sentence is ""one""."
+"His voice turns icy .
+",NN," The number of the object of the sentence ""His voice turns icy"" is singular."
+"After a few moments he raised the pistol towards Pierce , who hoped that the Colonel really was a bad shot .
+",NN," The number of the object of the sentence is ""pistol."""
+"Couldn 't he see the harm he caused her ?
+",NN," The number of the object of the sentence ""Couldn 't he see the harm he caused her ?"" is singular."
+"Olivia rubbed her temples and hung her head .
+",NNS," The number of the object of the sentence ""Olivia rubbed her temples and hung her head"" is one."
+""" Always the diplomat , Raz . ""
+",NN," The number of the object of the sentence ""Always the diplomat, Raz."" is one."
+"We women need to stick together , make a sisterhood pact of our own . ""
+",NN," The number of the object of the sentence ""We women need to stick together , make a sisterhood pact of our own . "" is ""our."""
+"Oh , he 's had his mistresses all right .
+",NNS," The number of the object of the sentence ""Oh , he 's had his mistresses all right ."" is singular."
+"For now , though , we have a farm that needs care and are short on people willing to work for a woman .
+",NN," The number of the object of the sentence is ""people""."
+"He lifted the pistol to Preston 's head .
+",NN," The number of the object of the sentence ""He lifted the pistol to Preston 's head .
+"" is singular."
+"I had imagined your involvement and that of Quest would have finished now that the picture has been recovered . '
+",NN," The number of the object of the sentence is ""that of Quest""."
+"While I mopped the floors , she threw the trash , washed the windows and dusted what sparse furniture was there .
+",NN," The number of the object of the sentence is ""what sparse furniture was there."""
+"Both of you guys have families -- you have parents that love and support you .
+",NNS," The number of the object of the sentence is ""two""."
+""" Will I keep my powers ? ""
+",NNS," The number of the object of the sentence ""Will I keep my powers?"" is unknown."
+"Mackie was always quiet in a social setting , at least in one involving whites .
+",NNS," The number of the object of the sentence is ""one""."
+""" We 're reading four hundred sixty signals .
+",NNS," The number of the object of the sentence is ""four hundred sixty."""
+"Back in our last town , my boyfriend had snuck cigarettes to me .
+",NNS," The number of the object of the sentence is ""cigarettes."""
+"He 's got a very stiff noodle , and I get the impression he has all kinds of plans for his stiff noodle .
+",NN," The number of the object of the sentence is ""one."""
+"Ashe named off the other male students in his and Sali 's class .
+",NNS," The number of the object of the sentence ""Ashe named off the other male students in his and Sali 's class ."" is plural."
+"Nay , no man would ever lay claim to her in the way that Alaric McCabe had .
+",NN," The number of the object of the sentence is ""one."""
+"He gave her credit .
+",NN," The number of the object of the sentence ""He gave her credit .
+"" is singular."
+"Just like the days back on Hermes , I get data dumps .
+",NNS," The number of the object of the sentence ""Just like the days back on Hermes , I get data dumps .
+"" is singular."
+""" Who are you calling a clot ? ""
+",NN," The number of the object of the sentence ""Who are you calling a clot?"" is singular."
+"She had read the directions , and still the smoke billowed from the oven .
+",NNS," The number of the object of the sentence is ""still the smoke billowed from the oven."""
+"They will perform scans and electronic monitoring , to assess the damage .
+",NNS," The number of the object of the sentence is ""scans and electronic monitoring""."
+"she spat at me , baring jagged yellow fangs .
+",NNS," The number of the object of the sentence is ""one."""
+"I liked his swing and was glad that salesman had talked him into it .
+",NN," The number of the object of the sentence is ""one""."
+"The young woman sang her bitter taunts .
+",NNS," The number of the object of the sentence ""The young woman sang her bitter taunts"" is one."
+"* * Slowly , I regained my senses .
+",NNS," The number of the object of the sentence ""Slowly, I regained my senses."" is singular."
+"He wasn 't wearing a condom , and they 'd been trying for another baby .
+",NN," The number of the object of the sentence is ""one."""
+""" Brutus doesn 't like strangers . ""
+",NNS," The subject of the sentence is ""Brutus."""
+"Some kept up a regular correspondence .
+",NN," The number of the object of the sentence ""Some kept up a regular correspondence"" is singular."
+""" Nice , "" Jack sighed , "" This is getting monotonous . ""
+",NNS," The number of the object of the sentence """" Nice , "" Jack sighed , "" This is getting monotonous . ""
+"" is monotonous."
+"Feeling more relieved than she had in days , she picked up her designs out of the trash and smoothed out the edges .
+",NNS," The number of the object of the sentence is ""she""."
+"I could not attend my classes .
+",NNS, There is no object in the sentence.
+"His eyes held both admiration and desperation .
+",NN," The number of the object of the sentence is ""both."""
+"He pulled out some cheese , cooked meats , and spreads .
+",NN," The number of the object of the sentence ""He pulled out some cheese , cooked meats , and spreads .
+"" is three."
+""" Sounds to me like this is another of your rush job love affairs . ""
+",NNS," The number of the object of the sentence is ""another."""
+"She chased her werewolf into the woods .
+",NN," The number of the object of the sentence ""She chased her werewolf into the woods."" is singular."
+"Alas , "" Sid sighed , "" our respective countries have no formal relations at present , so I am afraid the pleasantries stop here . ""
+",NNS," The number of the object of the sentence ""Alas , "" Sid sighed , "" our respective countries have no formal relations at present , so I am afraid the pleasantries stop here . "" is ""our respective countries."""
+"Grace wrote the numbers down for both and went to get her cell phone out of her purse .
+",NNS, There is no object in the sentence.
+"Walter flicked his cigarette into the water , and it hissed as he put his face into his hands .
+",NN," The number of the object of the sentence ""Walter flicked his cigarette into the water , and it hissed as he put his face into his hands .
+"" is one."
+"Reid unlocked the estate and threw the keys at me .
+",NN," The number of the object of the sentence ""Reid unlocked the estate and threw the keys at me"" is singular."
+"Chapter 7 Present Day Meg I quickly ran down the hallways .
+",NNS," The number of the object of the sentence ""Chapter 7 Present Day Meg I quickly ran down the hallways ."" is 1."
+""" And the coffee maker of course .
+",NN, The coffee maker.
+"After he backed onto the street , Niles searched along the row of hedges but didn 't see her .
+",NN," The number of the object of the sentence is ""one."""
+"Outside the high wall she caught a brief glimpse of something moving .
+",NN," The number of the object of the sentence is ""one""."
+"The gods suppressed the limo 's mean intelligence , kept it from asking what the problem was .
+",NN," The number of the object of the sentence is ""The gods suppressed the limo 's mean intelligence , kept it from asking what the problem was ."" is singular."
+"She fondled her pistol and decided to play one more hand with Paul .
+",NN, The number of the object of the sentence is one.
+"He probably saw ghosts everywhere .
+",NNS, There is no object in the sentence.
+"A huge wall of fire filled a wide chasm in the rock and rose into the air as far as I could see .
+",NN," The number of the object of the sentence is ""a wide chasm."""
+"Right after I find the fabled iron mines in the Eastern Shield . ""
+",NNS," The number of the object of the sentence ""Right after I find the fabled iron mines in the Eastern Shield."" is ""1""."
+""" Yummy kinds that crunch . ""
+",NN," The number of the object of the sentence """" Yummy kinds that crunch . ""
+"" is 1."
+"Around him , other groups of birds hauled cargo from the truck .
+",NN," The number of the object of the sentence ""Around him , other groups of birds hauled cargo from the truck ."" is other groups."
+""" No I won 't , just use your vines to keep the mouth open ! ""
+",NNS," The number of the object of the sentence """" No I won 't , just use your vines to keep the mouth open ! ""
+"" is ""just use your vines to keep the mouth open""."
+"I had some candles in my pockets which we put in the body .
+",NNS," The number of the object of the sentence is ""some."""
+"Genevieve and Riley took their backpacks into the family room .
+",NNS, The number of the object of the sentence is two.
+""" He had dark hair streaked with gray .
+",NNS," The number of the object of the sentence ""He had dark hair streaked with gray."" is singular."
+"I need an update on his condition right now .
+",NN," The number of the object of the sentence ""I need an update on his condition right now"" is singular."
+"Jam had no solace left to hide in .
+",NN," The number of the object of the sentence ""Jam had no solace left to hide in .
+"" is singular."
+"Despite all this , I felt Baruch 's resistance .
+",NN," The number of the object of the sentence is ""one""."
+"She checked Morgan 's condition periodically to make sure he was still okay .
+",NN," The number of the object of the sentence is ""one""."
+"Budda didn 't often order Blood Mama away , and the surprise of it left her at a loss for words .
+",NN," The number of the object of the sentence is ""one""."
+"Vampires generally don 't use hidden blades . ""
+",NNS," The number of the object of the sentence ""Vampires generally don 't use hidden blades . ""
+"" is ""0""."
+"So had a dragon .
+",NN," The number of the object of the sentence ""So had a dragon ."" is singular."
+""" These will prevent dizziness and fainting spells . ""
+",NNS," The number of the object of the sentence ""These will prevent dizziness and fainting spells."" is ""spells""."
+"The cool rush of the shower washed away the remains of the potato truck , leaving only the glaring unasked question .
+",NNS," The number of the object of the sentence is ""1""."
+"When Jasmine glanced up , she expected a stern scolding , or at least a disgusted huff .
+",NN," The number of the object of the sentence is ""she""."
+"As unnerving as it was on a lot of levels , he got definite brownie points for how involved he 'd been in Bradley 's care .
+",NNS, The number of the object of the sentence is definite.
+"' Forest fires and things ! '
+",NNS, There is no object in the sentence.
+"Turning his head to the left , he observed a large plant in the distance with gigantic leaves .
+",NN," The number of the object of the sentence is ""one."""
+"And if you 're coming along with me , who 'll watch the dogs ? ""
+",NNS," The number of the object of the sentence is ""who."""
+"Possibly might suggest fluctuating health issues such as allergies or weight gain 11 Balance , harmony , equity , integrity , fairness .
+",NNS, The number of the object of the sentence is 11.
+""" Or some whipped cream , right here . ""
+",NN," The number of the object of the sentence ""Or some whipped cream, right here."" is ""some""."
+"They finally reached the streetlights that lit the sidewalks and roads .
+",NNS," The number of the object of the sentence ""They finally reached the streetlights that lit the sidewalks and roads"" is singular."
+"She set her alarm clock and said , "" If I 'm lucky , I 'll get four hours of sleep .
+",NN, The number of the object of the sentence is four.
+""" You must choose one medallion , Sam . ""
+",NN," The number of the object of the sentence is ""one""."
+"He removed two dinner plates from her cupboard and set them on the table .
+",NNS," The number of the object of the sentence ""He removed two dinner plates from her cupboard and set them on the table"" is two."
+"Everything that could quiver in her body did quiver at the way he said the words .
+",NN, The number of the object of the sentence is singular.
+""" He is holding a fashion festival at his mansion . ""
+",NN," The number of the object of the sentence ""He is holding a fashion festival at his mansion."" is 1."
+"As he turned he saw two more identical figures coming in from the other fire door .
+",NNS, two
+"He had a long-standing tradition of messing with Leif 's head , as if they were playing a life-sized chess match .
+",NN," The number of the object of the sentence is ""a long-standing tradition."""
+"He had not possessed the capacity .
+",NN, The number of the object of the sentence is singular.
+"' Oh gods , not one of the daughters ? '
+",NNS, There is no object in the sentence.
+"Her appearance , though , contradicted her fiery personality .
+",NN," The number of the object of the sentence ""Her appearance , though , contradicted her fiery personality ."" is singular."
+""" You can look up my medical records from Jefferson Hospital . ""
+",NNS, Jefferson Hospital
+""" Kids love mixed tapes .
+",NNS," The number of the object of the sentence ""Kids love mixed tapes."" is plural."
+"I have a lease . ""
+",NN," The number of the object of the sentence ""I have a lease"" is 1."
+"Even speaking to me like this in public could damage your reputation . ""
+",NN," The number of the object of the sentence ""Even speaking to me like this in public could damage your reputation."" is ""1""."
+"After about ten minutes , we have twenty cartons of petrol loaded into the seven seater , hidden under the blankets and bags in the boot .
+",NNS, The number of the object of the sentence is twenty.
+"So he ignored the impulse and got back to work .
+",NN, There is no object in the sentence.
+"With the gun in his hand , Seth grabbed the briefcase as well .
+",NN," The number of the object of the sentence ""With the gun in his hand , Seth grabbed the briefcase as well ."" is 1."
+"I have my folks , some brothers and sisters , and a bunch of nieces and nephews and cousins .
+",NNS, 27
+"He scooped up the arrows and stained bedding and pitched them outside .
+",NNS, The number of the object of the sentence is three.
+"I made your favorite dishes -- minestrone , rigatoni , and fresh panini . ""
+",NNS, 3
+"I dance nimbly out of his reach .
+",NN," The number of the object of the sentence is ""one""."
+"You 've seen the set-up .
+",NN," The number of the object of the sentence ""You 've seen the set-up ."" is singular."
+""" I 've got a compass that tells us what we already know -- we 're headed south .
+",NNS," The number of the object of the sentence is ""compass."""
+"She made a silent appraisal of him .
+",NN," The number of the object of the sentence ""She made a silent appraisal of him"" is singular."
+"I could feel my muscles tensing .
+",NN, There is no object in this sentence.
+"I drove down the country highway , toward the beach and the wharf , puzzling this out .
+",NN," The number of the object of the sentence is ""1""."
+""" My parents had considerable resources .
+",NNS," The number of the object of the sentence ""My parents had considerable resources"" is singular."
+"I had been expecting wires , smallish motherboard looking things , and , well , more wires .
+",NNS," The number of the object of the sentence ""I had been expecting wires , smallish motherboard looking things , and , well , more wires ."" is ""more wires."""
