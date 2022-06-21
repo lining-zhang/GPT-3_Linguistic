@@ -1,0 +1,96 @@
+begin evaluating 0 tense
+356 out of 500 records             (0.712) get correct answers from GPT-3
+144 out of 500 records             (0.288) get antonym answers from GPT-3
+0 out of 500 records             (0.0) get answers which do not make sense from GPT-3
+begin evaluating 0 tense_prompt
+334 out of 500 records             (0.668) get correct answers from GPT-3
+154 out of 500 records             (0.308) get antonym answers from GPT-3
+12 out of 500 records             (0.024) get answers which do not make sense from GPT-3
+begin evaluating 0 obj
+130 out of 474 records             (0.2742616033755274) get correct answers from GPT-3
+95 out of 474 records             (0.20042194092827004) get antonym answers from GPT-3
+249 out of 474 records             (0.5253164556962026) get answers which do not make sense from GPT-3
+begin evaluating 0 obj_prompt
+304 out of 500 records             (0.608) get correct answers from GPT-3
+196 out of 500 records             (0.392) get antonym answers from GPT-3
+0 out of 500 records             (0.0) get answers which do not make sense from GPT-3
+begin evaluating 0 subj
+370 out of 500 records             (0.74) get correct answers from GPT-3
+127 out of 500 records             (0.254) get antonym answers from GPT-3
+3 out of 500 records             (0.006) get answers which do not make sense from GPT-3
+begin evaluating 0 subj_prompt
+22 out of 500 records             (0.044) get correct answers from GPT-3
+15 out of 500 records             (0.03) get antonym answers from GPT-3
+463 out of 500 records             (0.926) get answers which do not make sense from GPT-3
+begin evaluating 0.5 tense
+359 out of 500 records             (0.718) get correct answers from GPT-3
+140 out of 500 records             (0.28) get antonym answers from GPT-3
+1 out of 500 records             (0.002) get answers which do not make sense from GPT-3
+begin evaluating 0.5 tense_prompt
+335 out of 500 records             (0.67) get correct answers from GPT-3
+153 out of 500 records             (0.306) get antonym answers from GPT-3
+12 out of 500 records             (0.024) get answers which do not make sense from GPT-3
+begin evaluating 0.5 obj
+106 out of 463 records             (0.22894168466522677) get correct answers from GPT-3
+87 out of 463 records             (0.1879049676025918) get antonym answers from GPT-3
+270 out of 463 records             (0.5831533477321814) get answers which do not make sense from GPT-3
+begin evaluating 0.5 obj_prompt
+298 out of 500 records             (0.596) get correct answers from GPT-3
+202 out of 500 records             (0.404) get antonym answers from GPT-3
+0 out of 500 records             (0.0) get answers which do not make sense from GPT-3
+begin evaluating 0.5 subj
+349 out of 500 records             (0.698) get correct answers from GPT-3
+138 out of 500 records             (0.276) get antonym answers from GPT-3
+13 out of 500 records             (0.026) get answers which do not make sense from GPT-3
+begin evaluating 0.5 subj_prompt
+31 out of 500 records             (0.062) get correct answers from GPT-3
+20 out of 500 records             (0.04) get antonym answers from GPT-3
+449 out of 500 records             (0.898) get answers which do not make sense from GPT-3
+begin evaluating 0.7 tense
+349 out of 500 records             (0.698) get correct answers from GPT-3
+150 out of 500 records             (0.3) get antonym answers from GPT-3
+1 out of 500 records             (0.002) get answers which do not make sense from GPT-3
+begin evaluating 0.7 tense_prompt
+339 out of 500 records             (0.678) get correct answers from GPT-3
+145 out of 500 records             (0.29) get antonym answers from GPT-3
+16 out of 500 records             (0.032) get answers which do not make sense from GPT-3
+begin evaluating 0.7 obj
+104 out of 468 records             (0.2222222222222222) get correct answers from GPT-3
+72 out of 468 records             (0.15384615384615385) get antonym answers from GPT-3
+292 out of 468 records             (0.6239316239316239) get answers which do not make sense from GPT-3
+begin evaluating 0.7 obj_prompt
+300 out of 500 records             (0.6) get correct answers from GPT-3
+199 out of 500 records             (0.398) get antonym answers from GPT-3
+1 out of 500 records             (0.002) get answers which do not make sense from GPT-3
+begin evaluating 0.7 subj
+342 out of 500 records             (0.684) get correct answers from GPT-3
+150 out of 500 records             (0.3) get antonym answers from GPT-3
+8 out of 500 records             (0.016) get answers which do not make sense from GPT-3
+begin evaluating 0.7 subj_prompt
+24 out of 500 records             (0.048) get correct answers from GPT-3
+21 out of 500 records             (0.042) get antonym answers from GPT-3
+455 out of 500 records             (0.91) get answers which do not make sense from GPT-3
+begin evaluating 0.9 tense
+349 out of 500 records             (0.698) get correct answers from GPT-3
+147 out of 500 records             (0.294) get antonym answers from GPT-3
+4 out of 500 records             (0.008) get answers which do not make sense from GPT-3
+begin evaluating 0.9 tense_prompt
+331 out of 500 records             (0.662) get correct answers from GPT-3
+144 out of 500 records             (0.288) get antonym answers from GPT-3
+25 out of 500 records             (0.05) get answers which do not make sense from GPT-3
+begin evaluating 0.9 obj
+104 out of 471 records             (0.2208067940552017) get correct answers from GPT-3
+67 out of 471 records             (0.14225053078556263) get antonym answers from GPT-3
+300 out of 471 records             (0.6369426751592356) get answers which do not make sense from GPT-3
+begin evaluating 0.9 obj_prompt
+292 out of 500 records             (0.584) get correct answers from GPT-3
+204 out of 500 records             (0.408) get antonym answers from GPT-3
+4 out of 500 records             (0.008) get answers which do not make sense from GPT-3
+begin evaluating 0.9 subj
+331 out of 500 records             (0.662) get correct answers from GPT-3
+150 out of 500 records             (0.3) get antonym answers from GPT-3
+19 out of 500 records             (0.038) get answers which do not make sense from GPT-3
+begin evaluating 0.9 subj_prompt
+30 out of 500 records             (0.06) get correct answers from GPT-3
+29 out of 500 records             (0.058) get antonym answers from GPT-3
+441 out of 500 records             (0.882) get answers which do not make sense from GPT-3
