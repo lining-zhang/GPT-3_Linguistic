@@ -8,9 +8,7 @@ import pandas as pd
 import openai
 from prompts import Tense_prompt, Subj_num_prompt, Obj_num_prompt, Tense_prompt_general, Subj_prompt_general, Obj_prompt_general
 
-openai.api_key = "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" # get OpenAI API key
-# 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
-
+openai.api_key = "your_api_key" # get OpenAI API key
 
 prompt_dict =  {'tense': Tense_prompt,
                 'tense_prompt': Tense_prompt_general,
